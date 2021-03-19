@@ -53,6 +53,10 @@ Number of words: 6
 Total time: 10.524 seconds
 ```
 
+ex.
+
+![sample-run](./sample-run.gif)
+
 For each task, make a new folder containing the executable program and any submissions along with it.
 
 ## Program structure
