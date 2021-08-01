@@ -26,4 +26,7 @@ Everything that is submitted has some meaning, whether you want it to or not.  T
 
 ## Exercises
 ### delayedWords
-Delayed words is an example where a list of words are read in from a data file and printed at a specified time, relative to the start of the program.  Example is to test ability to attention to detail, read/follow the data path in the code, and understanding synchronous vs. asynchronous execution of Javascript.
+Delayed words is an example where a list of words are read in from a data file and printed at a specified time, relative to the start of the program.  Example is to test ability to pay attention to details, read/follow the data path in the code, and understanding synchronous vs. asynchronous execution of Javascript.
+
+### scrabble
+Scrabble is a program that will take in a string of letters and find possible scrabble words that could be made, sorted by value.  The program has some tests included (some good, some bad) indicating some errors in the program that need to be fixed.  Example is to test ability to pay attention to details, read and understand the structure of code, and to design intelligible tests.
